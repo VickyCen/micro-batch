@@ -1,12 +1,14 @@
 # MicroBatch
 
-This is a microbatch library that allows to group jobs into small batches, and process them in batch. Written in nodeJS.
+This is a microbatch library that allows to group jobs into small batches, and process them in batch. Written in Typescript.
 
 ## Usage
 
 ### Install
 
-Download the repo, run "npm install" in root directory
+```
+npm install
+```
 
 ### Dependency
 
